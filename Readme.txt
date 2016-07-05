@@ -14,7 +14,7 @@ java -version
 Run the program
 
 open command prompt and go to <home directory> of this project
-Run 'start.bat' file from command prompt
+Run 'run.bat' file from command prompt
 
 Result verification
 Output file - weather_result_<day>_<month>_<year>
