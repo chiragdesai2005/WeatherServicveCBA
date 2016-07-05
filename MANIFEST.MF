@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: com.weather.WeatherServiceClient
+Class-Path: lib/gson-2.2.4.jar lib/jersey-client-1.9.jar lib/jersey-core-1.8.jar
+
